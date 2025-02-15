@@ -5,3 +5,13 @@ I would try to cover:
 - databases 
 - frontend 
 - AI 
+
+### How to install 
+1. Create a virtual environment. 
+2. Navigate to the environment and use: 
+```pip install requirements.txt```
+
+### Python version 
+Currently using 3.13. 
+
+### Other reminders 
